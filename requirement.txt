@@ -1,0 +1,11 @@
+numpy
+pandas
+streamlit
+plotly
+openpyxl
+gdown
+pybase64
+matplotlib
+seaborn
+lxml
+yfinance
