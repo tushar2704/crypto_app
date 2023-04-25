@@ -9,3 +9,8 @@ matplotlib
 seaborn
 lxml
 yfinance
+Pillow
+bs4
+requests
+jsonlib
+python-time
